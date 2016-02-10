@@ -1,3 +1,10 @@
+body {
+	/* font: 18px/25px "comic sans ms", sans-serif; */
+	font-family: "comic sans ms", sans-serif;
+	font-size: 18px;
+	line-height: 25px;
+}
+
 img {
 	width: 100%;
 	height: auto;

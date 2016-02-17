@@ -1,11 +1,45 @@
+/*
+Thanks Paul Irish
+http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+*/
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 body {
-	/* font: 18px/25px "comic sans ms", sans-serif; */
-	font-family: "comic sans ms", sans-serif;
-	font-size: 18px;
-	line-height: 25px;
+	font-family: menlo, monospace;
+	font-size: 14px;
+	line-height: 24px;
 }
 
 img {
 	width: 100%;
 	height: auto;
+}
+
+h1, h2 {
+	font-size: 16px;
+}
+
+@media (min-width: 900px) {
+
+	.container {
+		margin-top: 100px;
+	}
+
+	#name {
+		float: left;
+		width: 33%;
+		padding-left: 30px;
+	}
+
+	#projects {
+		float: left;
+		width: 66%;
+	}
+	
 }

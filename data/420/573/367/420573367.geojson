@@ -1,0 +1,22 @@
+{
+  "id": 420573367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:latitude":"40.744054404129834",
+    "geom:longitude":"-73.99032354354858",
+    "src:geom":"mapzen",
+    "wof:id":420573367,
+    "wof:name":"Mapzen",
+    "wof:parent_id":"85869245",
+    "wof:placetype":"venue"
+},
+  "bbox": [
+    -73.990323543549,
+    40.74405440413,
+    -73.990323543549,
+    40.74405440413
+],
+  "geometry": {"coordinates":[-73.990323543549,40.74405440413],"type":"Point"}
+}

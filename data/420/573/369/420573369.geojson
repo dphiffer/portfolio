@@ -1,0 +1,22 @@
+{
+  "id": 420573369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:latitude":"40.74517613004631",
+    "geom:longitude":"-73.98983001708984",
+    "src:geom":"mapzen",
+    "wof:id":420573369,
+    "wof:name":"testing",
+    "wof:parent_id":"85892937",
+    "wof:placetype":"venue"
+},
+  "bbox": [
+    -73.98983001709,
+    40.745176130046,
+    -73.98983001709,
+    40.745176130046
+],
+  "geometry": {"coordinates":[-73.98983001709,40.745176130046],"type":"Point"}
+}
